@@ -3,6 +3,7 @@ Software Engineer | AI Researcher | Cybersecurity Explorer
 
 🎓 Bachelor of Engineering in Software 
 🎓 Currently Master On Cyber Security (Ai System Archi)
+   Quantum Physics enthusiast
 📍 Based in China/US | 🇲🇦 Moroccan by soul | 🌐 Global mindset  
 💡 Building future-proof systems: Ai System Archi | Sofware Engineering | Forecasting AI | Cyber defense  
 
@@ -25,7 +26,8 @@ Software Engineer | AI Researcher | Cybersecurity Explorer
 | **HMC PROJECT**                   | Business Ecosystem BNB based structure                                      | c, html, blockchain networks  |
 | **Ai Assitant**                   | Smart optimised TTS AI agent work as a real life or business task handler   | UI/UX:TG, JS, N8N chain, Ngrok|
 
-
+## (QLSC) Researcher
+Quantum Light Paper soon released.
 
 
 ---
