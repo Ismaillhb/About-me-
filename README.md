@@ -1,9 +1,10 @@
 # About-me-# 
 Software Engineer | AI Researcher | Cybersecurity Explorer
 
-🎓 Bachelor of Engineering in Software (2025)  
-📍 Based in China/UK | 🇲🇦 Moroccan by soul | 🌐 Global mindset  
-💡 Building future-proof systems | Forecasting AI | Cyber defense  
+🎓 Bachelor of Engineering in Software 
+🎓 Currently Master On Cyber Security (Ai System Archi)
+📍 Based in China/US | 🇲🇦 Moroccan by soul | 🌐 Global mindset  
+💡 Building future-proof systems: Ai System Archi | Sofware Engineering | Forecasting AI | Cyber defense  
 
 ---
 
@@ -21,16 +22,21 @@ Software Engineer | AI Researcher | Cybersecurity Explorer
 |-----------------------------------|-----------------------------------------------------------------------------|-------------------------------|
 | **Crypto Forecaster AI**          | Real-time LSTM prediction for crypto coins (major + memecoins)              | Python, FastAPI, LSTM, REST   |
 | **DVAG Pro Planner**              | Financial consulting tool for DVAG onboarding                               | Python, Streamlit, DB         |
+| **HMC PROJECT**                   | Business Ecosystem BNB based structure                                      | c, html, blockchain networks  |
+| **Ai Assitant**                   | Smart optimised TTS AI agent work as a real life or business task handler   | UI/UX:TG, JS, N8N chain, Ngrok|
+
+
+
 
 ---
 
 ## 📦 Tech Stack & Tools
 
-- **Languages**: Python, Java, Solidity, Bash, JavaScript  
+- **Languages**: Python, c, c++, Java, Solidity, Bash, JavaScript  
 - **Frameworks**: FastAPI, React, Streamlit, Flask, TailwindCSS  
-- **AI/ML**: TensorFlow, Keras, scikit-learn, pandas, transformers  
-- **Cybersec**: Kali Linux, Wireshark, nmap, Metasploit, Hashcat  
-- **DevOps**: Git, Docker, Ngrok, Netlify, GitHub Actions  
+- **AI/ML**: TensorFlow, Keras, scikit-learn, pandas, Deep Learning, Neural Network transformers, LSTM, CNN  
+- **Cybersec**: Kali Linux, Wireshark, nmap, Metasploit, Hashcat, Ubuntu  
+- **DevOps**: Git, Docker, Ngrok, Netlify, GitHub Actions, G Colab  
 
 ---
 
